@@ -10,7 +10,7 @@
   },
   "type": "module",
   "devDependencies": {
-    "@enkore-target/js-none": "^0.0.26",
+    "@enkore-target/js-none": "^0.0.28",
     "@enkore/core": "^0.6.6",
     "enkore": "^0.0.22"
   }
